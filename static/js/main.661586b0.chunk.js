@@ -1,0 +1,2 @@
+(this["webpackJsonpdafi-landing-page"]=this["webpackJsonpdafi-landing-page"]||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);var c=t(1),i=t.n(c),a=t(3),r=t.n(a),d=(t(8),t(9),t(0));var s=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("h1",{children:"Hello world"})})};r.a.render(Object(d.jsx)(i.a.StrictMode,{children:Object(d.jsx)(s,{})}),document.getElementById("root"))},8:function(n,e,t){},9:function(n,e,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.661586b0.chunk.js.map

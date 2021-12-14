@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dafi-landing-page/static/css/main.9311cd49.chunk.css",
+    "main.js": "/dafi-landing-page/static/js/main.661586b0.chunk.js",
+    "main.js.map": "/dafi-landing-page/static/js/main.661586b0.chunk.js.map",
+    "runtime-main.js": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js",
+    "runtime-main.js.map": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js.map",
+    "static/css/2.70c372c2.chunk.css": "/dafi-landing-page/static/css/2.70c372c2.chunk.css",
+    "static/js/2.64952eb5.chunk.js": "/dafi-landing-page/static/js/2.64952eb5.chunk.js",
+    "static/js/2.64952eb5.chunk.js.map": "/dafi-landing-page/static/js/2.64952eb5.chunk.js.map",
+    "index.html": "/dafi-landing-page/index.html",
+    "static/css/2.70c372c2.chunk.css.map": "/dafi-landing-page/static/css/2.70c372c2.chunk.css.map",
+    "static/css/main.9311cd49.chunk.css.map": "/dafi-landing-page/static/css/main.9311cd49.chunk.css.map",
+    "static/js/2.64952eb5.chunk.js.LICENSE.txt": "/dafi-landing-page/static/js/2.64952eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2dec3c4.js",
+    "static/css/2.70c372c2.chunk.css",
+    "static/js/2.64952eb5.chunk.js",
+    "static/css/main.9311cd49.chunk.css",
+    "static/js/main.661586b0.chunk.js"
+  ]
+}
