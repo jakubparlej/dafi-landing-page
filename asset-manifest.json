@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dafi-landing-page/static/css/main.03bccfd3.chunk.css",
+    "main.css": "/dafi-landing-page/static/css/main.acb87bea.chunk.css",
     "main.js": "/dafi-landing-page/static/js/main.2d6f9eb4.chunk.js",
     "main.js.map": "/dafi-landing-page/static/js/main.2d6f9eb4.chunk.js.map",
     "runtime-main.js": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js",
@@ -10,14 +10,14 @@
     "static/js/2.71e8183c.chunk.js.map": "/dafi-landing-page/static/js/2.71e8183c.chunk.js.map",
     "index.html": "/dafi-landing-page/index.html",
     "static/css/2.70c372c2.chunk.css.map": "/dafi-landing-page/static/css/2.70c372c2.chunk.css.map",
-    "static/css/main.03bccfd3.chunk.css.map": "/dafi-landing-page/static/css/main.03bccfd3.chunk.css.map",
+    "static/css/main.acb87bea.chunk.css.map": "/dafi-landing-page/static/css/main.acb87bea.chunk.css.map",
     "static/js/2.71e8183c.chunk.js.LICENSE.txt": "/dafi-landing-page/static/js/2.71e8183c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2dec3c4.js",
     "static/css/2.70c372c2.chunk.css",
     "static/js/2.71e8183c.chunk.js",
-    "static/css/main.03bccfd3.chunk.css",
+    "static/css/main.acb87bea.chunk.css",
     "static/js/main.2d6f9eb4.chunk.js"
   ]
 }
