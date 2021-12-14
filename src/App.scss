@@ -1,0 +1,44 @@
+@import "./index.scss";
+
+* {
+  font-family: $font-family;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-smooth: antialiased;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+.section__padding {
+  padding: 0 2rem;
+
+  @include breakpoint-up("md") {
+    padding: 0 5rem;
+  }
+
+  @include breakpoint-up("xl") {
+    padding: 0 10rem;
+  }
+}
+
+.section__margin {
+  margin: 0 2rem;
+
+  @include breakpoint-up("md") {
+    margin: 0 5rem;
+  }
+
+  @include breakpoint-up("xl") {
+    margin: 0 10rem;
+  }
+}

@@ -1,6 +1,36 @@
 @import "normalize.css";
+@import url(https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap);
 
-// Colors
+// Variables
+$font-family: "Be Vietnam Pro", sans-serif;
 $black: #111111;
 $blue: #00a8e3;
 $gray: #45575e;
+
+// Media queries
+
+$breakpoints-up: (
+  "sm": 577px,
+  "md": 769px,
+  "lg": 993px,
+  "xl": 1201px,
+);
+
+$breakpoints-down: (
+  "sm": 576px,
+  "md": 768px,
+  "lg": 992px,
+  "xl": 1200px,
+);
+
+@mixin breakpoint-up($breakpoint) {
+  @media (min-width: map-get($breakpoints-up, $breakpoint)) {
+    @content;
+  }
+}
+
+@mixin breakpoint-down($breakpoint) {
+  @media (max-width: map-get($breakpoints-down, $breakpoint)) {
+    @content;
+  }
+}
