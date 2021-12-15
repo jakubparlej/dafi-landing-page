@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dafi-landing-page/static/css/main.68c16705.chunk.css",
-    "main.js": "/dafi-landing-page/static/js/main.3bc8b2b7.chunk.js",
-    "main.js.map": "/dafi-landing-page/static/js/main.3bc8b2b7.chunk.js.map",
+    "main.css": "/dafi-landing-page/static/css/main.59223ca7.chunk.css",
+    "main.js": "/dafi-landing-page/static/js/main.93824c20.chunk.js",
+    "main.js.map": "/dafi-landing-page/static/js/main.93824c20.chunk.js.map",
     "runtime-main.js": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js",
     "runtime-main.js.map": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js.map",
     "static/css/2.70c372c2.chunk.css": "/dafi-landing-page/static/css/2.70c372c2.chunk.css",
@@ -10,15 +10,17 @@
     "static/js/2.920fd595.chunk.js.map": "/dafi-landing-page/static/js/2.920fd595.chunk.js.map",
     "index.html": "/dafi-landing-page/index.html",
     "static/css/2.70c372c2.chunk.css.map": "/dafi-landing-page/static/css/2.70c372c2.chunk.css.map",
-    "static/css/main.68c16705.chunk.css.map": "/dafi-landing-page/static/css/main.68c16705.chunk.css.map",
+    "static/css/main.59223ca7.chunk.css.map": "/dafi-landing-page/static/css/main.59223ca7.chunk.css.map",
     "static/js/2.920fd595.chunk.js.LICENSE.txt": "/dafi-landing-page/static/js/2.920fd595.chunk.js.LICENSE.txt",
+    "static/media/butelka-niebieska.d585ef53.png": "/dafi-landing-page/static/media/butelka-niebieska.d585ef53.png",
+    "static/media/check-icon.0ca63068.svg": "/dafi-landing-page/static/media/check-icon.0ca63068.svg",
     "static/media/header-bg.106e76c1.jpg": "/dafi-landing-page/static/media/header-bg.106e76c1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2dec3c4.js",
     "static/css/2.70c372c2.chunk.css",
     "static/js/2.920fd595.chunk.js",
-    "static/css/main.68c16705.chunk.css",
-    "static/js/main.3bc8b2b7.chunk.js"
+    "static/css/main.59223ca7.chunk.css",
+    "static/js/main.93824c20.chunk.js"
   ]
 }
