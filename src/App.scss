@@ -2,6 +2,7 @@
 
 * {
   font-family: $font-family;
+  letter-spacing: 100%;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,6 +13,30 @@
 
 body {
   overflow-x: hidden;
+}
+
+h1 {
+  font-size: $h1sm;
+
+  @include breakpoint-up("md") {
+    font-size: $h1;
+  }
+
+  @include breakpoint-up("xl") {
+    font-size: $h1xl;
+  }
+}
+
+h2 {
+  font-size: $h2sm;
+
+  @include breakpoint-up("md") {
+    font-size: $h2;
+  }
+
+  @include breakpoint-up("xl") {
+    font-size: $h2xl;
+  }
 }
 
 a {

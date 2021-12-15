@@ -1,10 +1,12 @@
 import "./App.scss";
-import { Navbar } from "./containers/export";
+import { Navbar, Header, About } from "./containers/export";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
+      <Header />
+      <About />
     </div>
   );
 }

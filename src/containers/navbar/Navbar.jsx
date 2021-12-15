@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { VscClose, VscMenu } from "react-icons/vsc";
-import { logo } from "../../assets/export";
+import logo from "../../assets/logo.png";
 import "./Navbar.scss";
 
 function Navbar() {

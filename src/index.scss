@@ -1,11 +1,21 @@
 @import "normalize.css";
-@import url(https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap);
 
 // Variables
-$font-family: "Be Vietnam Pro", sans-serif;
+$font-family: "Roboto", sans-serif;
 $black: #111111;
 $blue: #00a8e3;
+$veryLightBlue: #f0fbff;
 $gray: #45575e;
+
+$h1: 3rem;
+$h2: 2.5rem;
+
+$h1xl: 3.5rem;
+$h2xl: 3rem;
+
+$h1sm: 2.5rem;
+$h2sm: 2rem;
 
 // Media queries
 

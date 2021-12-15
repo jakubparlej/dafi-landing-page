@@ -1,0 +1,58 @@
+@import "../../index.scss";
+
+.header {
+  display: flex;
+  flex-direction: column;
+
+  @include breakpoint-up("md") {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    order: 2;
+    text-align: center;
+    margin-top: 2.5rem;
+
+    @include breakpoint-up("md") {
+      order: 1;
+    }
+
+    p {
+      color: $blue;
+      font-size: 1.5rem;
+
+      @include breakpoint-up("lg") {
+        font-size: 2rem;
+      }
+    }
+
+    h1 {
+      margin-top: 1rem;
+      margin-bottom: 2.5rem;
+    }
+  }
+
+  &__buttons {
+    display: flex;
+    gap: 1rem;
+  }
+
+  &__image {
+    order: 1;
+    width: 100%;
+
+    @include breakpoint-up("md") {
+      order: 2;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+}

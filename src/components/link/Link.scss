@@ -1,0 +1,13 @@
+@import "../../index.scss";
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: $blue;
+
+  &:hover {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+}

@@ -1,0 +1,17 @@
+@import "../../index.scss";
+
+.capacity {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 1rem;
+
+  @include breakpoint-up("lg") {
+    gap: 1.5rem;
+  }
+
+  &__liters {
+    color: $blue;
+    font-size: 2.25rem;
+  }
+}

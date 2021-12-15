@@ -1,0 +1,11 @@
+@import "../../index.scss";
+
+.pros {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  p {
+    font-size: 1rem;
+  }
+}
