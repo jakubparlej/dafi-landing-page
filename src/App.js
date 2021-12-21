@@ -1,5 +1,5 @@
 import "./App.scss";
-import { Navbar, Header, About, Features } from "./containers/export";
+import { Navbar, Header, About, Features, Slider } from "./containers/export";
 
 function App() {
   return (
@@ -8,6 +8,7 @@ function App() {
       <Header />
       <About />
       <Features />
+      <Slider />
     </div>
   );
 }
