@@ -17,6 +17,7 @@ body {
 
 h1 {
   font-size: $h1sm;
+  font-weight: 500;
 
   @include breakpoint-up("md") {
     font-size: $h1;
@@ -29,6 +30,7 @@ h1 {
 
 h2 {
   font-size: $h2sm;
+  font-weight: 500;
 
   @include breakpoint-up("md") {
     font-size: $h2;
