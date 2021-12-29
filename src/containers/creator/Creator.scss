@@ -1,0 +1,82 @@
+@import "../../index.scss";
+
+.creator {
+  h2 {
+    text-align: center;
+    margin-bottom: 4rem;
+
+    @include breakpoint-up("lg") {
+      margin-bottom: 0;
+    }
+
+    span {
+      &:nth-child(1) {
+        color: #ff861b;
+      }
+      &:nth-child(2) {
+        color: #d94394;
+      }
+      &:nth-child(3) {
+        color: #e8252d;
+      }
+      &:nth-child(4) {
+        color: #a8bb44;
+      }
+      &:nth-child(5) {
+        color: #ade8de;
+      }
+      &:nth-child(6) {
+        color: #006fb4;
+      }
+      &:nth-child(7) {
+        color: #c0bae8;
+      }
+    }
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+
+    @include breakpoint-up("lg") {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+
+  &__content {
+    text-align: center;
+
+    h3 {
+      font-size: 1.5rem;
+      margin-bottom: 2rem;
+      font-weight: 500;
+
+      @include breakpoint-up("lg") {
+        font-size: 2rem;
+      }
+    }
+
+    p {
+      line-height: 150%;
+      color: $gray;
+      margin-bottom: 3rem;
+
+      span {
+        color: $blue;
+      }
+
+      @include breakpoint-up("lg") {
+        font-size: 1.25rem;
+      }
+    }
+  }
+
+  &__image {
+    width: 100%;
+
+    img {
+      width: 100%;
+    }
+  }
+}

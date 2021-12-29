@@ -6,6 +6,8 @@ import {
   Features,
   Slider,
   FilterSwap,
+  MyDafi,
+  Creator,
 } from "./containers/export";
 
 function App() {
@@ -17,6 +19,8 @@ function App() {
       <Features />
       <Slider />
       <FilterSwap />
+      <MyDafi />
+      <Creator />
     </div>
   );
 }

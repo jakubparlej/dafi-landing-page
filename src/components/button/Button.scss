@@ -6,6 +6,11 @@
   border-radius: 10rem;
   transition: all 300ms ease;
   cursor: pointer;
+  font-size: 1.25rem;
+
+  @include breakpoint-up("md") {
+    padding: 0.875rem 1.25rem;
+  }
 
   &--primary {
     border: 1px solid $blue;
