@@ -6,3 +6,4 @@ export { default as Slider } from "./slider/Slider";
 export { default as FilterSwap } from "./filterSwap/FilterSwap";
 export { default as MyDafi } from "./myDafi/MyDafi";
 export { default as Creator } from "./creator/Creator";
+export { default as Footer } from "./footer/Footer";

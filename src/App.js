@@ -8,6 +8,7 @@ import {
   FilterSwap,
   MyDafi,
   Creator,
+  Footer,
 } from "./containers/export";
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <FilterSwap />
       <MyDafi />
       <Creator />
+      <Footer />
     </div>
   );
 }
