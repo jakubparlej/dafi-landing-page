@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dafi-landing-page/static/css/main.4a9b2b92.chunk.css",
-    "main.js": "/dafi-landing-page/static/js/main.b829103e.chunk.js",
-    "main.js.map": "/dafi-landing-page/static/js/main.b829103e.chunk.js.map",
+    "main.css": "/dafi-landing-page/static/css/main.a2aae903.chunk.css",
+    "main.js": "/dafi-landing-page/static/js/main.cb664f41.chunk.js",
+    "main.js.map": "/dafi-landing-page/static/js/main.cb664f41.chunk.js.map",
     "runtime-main.js": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js",
     "runtime-main.js.map": "/dafi-landing-page/static/js/runtime-main.f2dec3c4.js.map",
     "static/css/2.1a7fd366.chunk.css": "/dafi-landing-page/static/css/2.1a7fd366.chunk.css",
-    "static/js/2.f9599b0e.chunk.js": "/dafi-landing-page/static/js/2.f9599b0e.chunk.js",
-    "static/js/2.f9599b0e.chunk.js.map": "/dafi-landing-page/static/js/2.f9599b0e.chunk.js.map",
+    "static/js/2.7a578ed5.chunk.js": "/dafi-landing-page/static/js/2.7a578ed5.chunk.js",
+    "static/js/2.7a578ed5.chunk.js.map": "/dafi-landing-page/static/js/2.7a578ed5.chunk.js.map",
     "index.html": "/dafi-landing-page/index.html",
     "static/css/2.1a7fd366.chunk.css.map": "/dafi-landing-page/static/css/2.1a7fd366.chunk.css.map",
-    "static/css/main.4a9b2b92.chunk.css.map": "/dafi-landing-page/static/css/main.4a9b2b92.chunk.css.map",
-    "static/js/2.f9599b0e.chunk.js.LICENSE.txt": "/dafi-landing-page/static/js/2.f9599b0e.chunk.js.LICENSE.txt",
+    "static/css/main.a2aae903.chunk.css.map": "/dafi-landing-page/static/css/main.a2aae903.chunk.css.map",
+    "static/js/2.7a578ed5.chunk.js.LICENSE.txt": "/dafi-landing-page/static/js/2.7a578ed5.chunk.js.LICENSE.txt",
     "static/media/butelka-eco.550e1c3f.png": "/dafi-landing-page/static/media/butelka-eco.550e1c3f.png",
     "static/media/butelka-filtr.5b82c047.png": "/dafi-landing-page/static/media/butelka-filtr.5b82c047.png",
     "static/media/butelka-image1.abccbe66.jpg": "/dafi-landing-page/static/media/butelka-image1.abccbe66.jpg",
@@ -22,17 +22,19 @@
     "static/media/butelka-plastik.a71c69a7.png": "/dafi-landing-page/static/media/butelka-plastik.a71c69a7.png",
     "static/media/butelka-szara.4850d9c1.png": "/dafi-landing-page/static/media/butelka-szara.4850d9c1.png",
     "static/media/butelka-uchwyt.a16f6e6c.png": "/dafi-landing-page/static/media/butelka-uchwyt.a16f6e6c.png",
+    "static/media/butelki.e8b39370.svg": "/dafi-landing-page/static/media/butelki.e8b39370.svg",
     "static/media/check-icon.0ca63068.svg": "/dafi-landing-page/static/media/check-icon.0ca63068.svg",
     "static/media/header-bg.106e76c1.jpg": "/dafi-landing-page/static/media/header-bg.106e76c1.jpg",
     "static/media/krok1.ff0abcbe.svg": "/dafi-landing-page/static/media/krok1.ff0abcbe.svg",
     "static/media/krok2.72756929.svg": "/dafi-landing-page/static/media/krok2.72756929.svg",
-    "static/media/krok3.f5a87540.svg": "/dafi-landing-page/static/media/krok3.f5a87540.svg"
+    "static/media/krok3.f5a87540.svg": "/dafi-landing-page/static/media/krok3.f5a87540.svg",
+    "static/media/moje-dafi.d05d0ec2.png": "/dafi-landing-page/static/media/moje-dafi.d05d0ec2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f2dec3c4.js",
     "static/css/2.1a7fd366.chunk.css",
-    "static/js/2.f9599b0e.chunk.js",
-    "static/css/main.4a9b2b92.chunk.css",
-    "static/js/main.b829103e.chunk.js"
+    "static/js/2.7a578ed5.chunk.js",
+    "static/css/main.a2aae903.chunk.css",
+    "static/js/main.cb664f41.chunk.js"
   ]
 }
