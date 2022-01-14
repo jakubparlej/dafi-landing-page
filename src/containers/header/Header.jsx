@@ -3,6 +3,7 @@ import headerBg from "../../assets/header-bg.jpg";
 import "./Header.scss";
 import { Button } from "../../components/button/Button";
 import { Link } from "../../components/link/Link";
+import { HashLink } from "react-router-hash-link";
 
 function Header() {
   return (
@@ -14,7 +15,9 @@ function Header() {
           <Button type="button" buttonStyle="btn--primary">
             Kup online
           </Button>
-          <Link href="#">Dowiedz się więcej</Link>
+          <HashLink className="hashlink" to="/prototyp#dlaczego">
+            <Link href="#">Dowiedz się więcej</Link>
+          </HashLink>
         </div>
       </div>
       <div className="header__image">

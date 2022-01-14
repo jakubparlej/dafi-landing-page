@@ -1,0 +1,57 @@
+@import "../../index.scss";
+
+hr {
+  width: 100%;
+  height: 2px;
+  background-color: $blue;
+  margin-bottom: 5rem;
+}
+
+.end {
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h2 {
+    margin-bottom: 2rem;
+  }
+
+  h2:first-of-type {
+    font-size: 4rem;
+    color: $blue;
+
+    @include breakpoint-up("md") {
+      font-size: 5rem;
+    }
+  }
+
+  p {
+    margin-top: 3rem;
+    font-size: 1.25rem;
+  }
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+
+  a {
+    padding: 2rem 3rem;
+    border-radius: 10rem;
+    transition: all 300ms ease;
+    cursor: pointer;
+    font-size: 1.5rem;
+    border: 1px solid $blue;
+    background: $blue;
+    color: #fff;
+
+    &:hover {
+      background: none;
+      color: $blue;
+    }
+  }
+}

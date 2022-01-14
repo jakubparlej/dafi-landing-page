@@ -1,4 +1,6 @@
+import React from "react";
 import "./App.scss";
+import End from "../containers/end/End";
 import {
   Navbar,
   Header,
@@ -9,7 +11,7 @@ import {
   MyDafi,
   Creator,
   Footer,
-} from "./containers/export";
+} from "../containers/export";
 
 function App() {
   return (
@@ -22,6 +24,7 @@ function App() {
       <FilterSwap />
       <MyDafi />
       <Creator />
+      <End />
       <Footer />
     </div>
   );

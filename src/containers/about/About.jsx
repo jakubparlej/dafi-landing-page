@@ -6,7 +6,7 @@ import Capacity from "../../components/capacity/Capacity";
 
 function About() {
   return (
-    <div className="about">
+    <div className="about" id="dlaczego">
       <h2 className="section__margin">Dlaczego warto wybrać Dafi?</h2>
       <div className="about__container section__margin">
         <div className="about__pros">

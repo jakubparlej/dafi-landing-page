@@ -1,0 +1,57 @@
+@import "../index.scss";
+
+h1 {
+  @include breakpoint-down("md") {
+    font-size: 3rem;
+  }
+}
+
+h2 {
+  margin: 2rem 0;
+
+  @include breakpoint-down("md") {
+    font-size: 2.5rem;
+  }
+}
+
+.welcome {
+  width: 80%;
+  padding: 5rem 0;
+
+  @include breakpoint-down("md") {
+    width: 100%;
+    padding: 2rem 0 10rem 0;
+  }
+
+  p {
+    font-size: 1.5rem;
+    line-height: 150%;
+    margin-bottom: 3rem;
+
+    ul {
+      margin: 2rem 0;
+
+      li {
+        color: $blue;
+      }
+    }
+  }
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.back {
+  font-size: 1.25rem;
+
+  &:hover {
+    color: $blue;
+  }
+}
+
+.img {
+  @include breakpoint-down("md") {
+    display: none;
+  }
+}

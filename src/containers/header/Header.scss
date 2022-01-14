@@ -41,6 +41,12 @@
   &__buttons {
     display: flex;
     gap: 1rem;
+
+    @include breakpoint-down("md") {
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
   }
 
   &__image {
@@ -55,4 +61,8 @@
       width: 100%;
     }
   }
+}
+
+.hashlink {
+  display: flex;
 }
