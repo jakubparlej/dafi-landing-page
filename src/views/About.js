@@ -18,13 +18,14 @@ const About = () => {
           </Link>
           <h2>Na czym polega badanie?</h2>
           <p>
-            W pierwszym etapie zostaniesz przekierowany do prototypu strony
+            W pierwszym etapie zostaniesz przekierowany/a do prototypu strony
             internetowej opisującej butelkę filtrującą Dafi. Oto założenia,
-            którymi chcielibyśmy abyś się kierował podczas przeglądania strony:
+            którymi chcielibyśmy abyś się kierował/a podczas przeglądania
+            strony:
             <ul>
               <li>
-                trafiłeś na stronę klikając w reklamę, ponieważ
-                jesteś zainteresowany kupnem butelki
+                trafiłeś/aś na stronę klikając w reklamę, ponieważ
+                jesteś zainteresowany/a kupnem butelki
               </li>
               <li>masz nieograniczony budżet pieniężny na zakup butelki</li>
               <li>
@@ -34,9 +35,9 @@ const About = () => {
             </ul>
           </p>
           <p>
-            Po obejrzeniu strony zostaniesz poproszony o wypełnienie krótkiej
+            Po obejrzeniu strony zostaniesz poproszony/a o wypełnienie krótkiej
             ankiety. Link do ankiety znajduje się na samym dole strony. Całe
-            badanie jest anonimowe, zajmie maksymalnie 5 minut i posłuży nam
+            badanie jest anonimowe, zajmie maksymalnie kilka minut i posłuży nam
             wyłącznie w celach naukowych. Z góry dziękujemy za poświęcony czas.
           </p>
           <div className="links">

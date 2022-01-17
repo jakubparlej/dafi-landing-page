@@ -15,9 +15,9 @@ const Welcome = () => {
           <h1>Witamy na naszej stronie!</h1>
           <p>
             Jesteśmy studentami II roku Designu i zarządzania projektami na
-            Politechnice Częstochowskiej i w ramach zajęć zaprojektowaliśmy ten
-            oto prototyp strony internetowej opisującej produkt jakim jest
-            butelka filtrująca Dafi.
+            Politechnice Częstochowskiej i w ramach zajęć zaprojektowaliśmy
+            prototyp strony internetowej opisującej produkt jakim jest butelka
+            filtrująca Dafi.
           </p>
           <p>
             Celem tego projektu jest zbadanie doświadczeń użytkownika (User
@@ -25,7 +25,7 @@ const Welcome = () => {
             sprzedaży.
           </p>
           <p>
-            Jeśli jesteś zainteresowany wzięciem udziału w naszym badaniu,
+            Jeśli jesteś zainteresowany/a wzięciem udziału w naszym badaniu,
             kliknij w poniższy przycisk aby dowiedzieć się więcej.
           </p>
           <div className="links">
